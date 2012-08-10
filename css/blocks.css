@@ -1,0 +1,8 @@
+.square { background-color: red; }
+.ell { background-color: blue; }
+.ell-r { background-color: purple; }
+.tee { background-color: green; }
+.ess { background-color: yellow; }
+.ess-r { background-color: orange; }
+.line { background-color: grey; }
+.block { border: 1px solid black; position: absolute; font-size: 0px; line-height: 0px; }
